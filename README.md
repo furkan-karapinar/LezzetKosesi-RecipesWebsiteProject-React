@@ -71,7 +71,7 @@ LezzetKöşesi, sadece tarif sunmaktan öte; kullanıcı etkileşimi, blog yazı
 4. Frontend:
     - `RecipeSite` klasörüne gir, `npm install` yap.
     - Gerekirse `./api/api.jsx` içinde BASE API URL’sini belirt.
-    - `npm start` ile siteyi yerelde çalıştır.
+    - `npm start` ile veya `start-server.cmd` ile siteyi yerelde çalıştır.
 
 ---
 
