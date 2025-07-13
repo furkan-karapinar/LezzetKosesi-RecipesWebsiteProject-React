@@ -35,7 +35,7 @@ LezzetKöşesi, sadece tarif sunmaktan öte; kullanıcı etkileşimi, blog yazı
 
 ## 📦 Özellikler
 
-- **Anasayfa**: Trending tarifler, blog yazıları, kategori filtreleriyle zengin içerik.
+- **Anasayfa**: Trend tarifler ve tarif arama gibi zengin içerikler.
 - **Tarif Detay Sayfası**: Tarif içeriği, yazar bilgisi, yorumlar, beğenme & favoriye ekleme.
 - **Blog Sayfası**: Yazı listesi, kategori filtresi, yazı detay sayfası.
 - **Kullanıcı Profili**: Kullanıcının favori tarifleri, beğenileri, yazıları.
@@ -78,12 +78,12 @@ LezzetKöşesi, sadece tarif sunmaktan öte; kullanıcı etkileşimi, blog yazı
 ## 📌 Gelecek Planlarım
 
 - Kullanıcı kayıt/giriş sistemi (JWT tabanlı).
-- Yetkilendirme (User/Admin).
+- Yetkilendirme (User/Admin). (Şuan yalnızca User mevcut)
 - Yorum ve beğeni sistemine gerçek zamanlı güncellemeler.
 - Swagger ile API dokümantasyonu.
-- Güvenlik: Rate-limiting, input sanitization, password hashing.
+- Güvenlik: Rate-limiting, input sanitization
 - Optimizasyon: Resim sıkıştırma, önbellekleme (caching).
-- SEO & erişilebilirlik iyileştirmeleri.
+- SEO & erişilebilirlik iyileştirmeleri vb.
 
 ---
 
